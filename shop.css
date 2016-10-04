@@ -1,0 +1,31 @@
+.main-left, .main-right {
+   float: left;
+}
+
+.main-left {
+   width: 80%;
+}
+
+.main-right {
+   width: 20%;
+}
+
+h4 {
+    height: 70px;
+    background-color: #d3d3d3;
+    color: #eee;
+    margin-bottom: 1em;
+    color: #000000;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+h4 + a {
+    padding: 10px;
+    color: #939393;
+} 
+
+.comino {
+	width: 100px;
+	height: 100px;
+}
